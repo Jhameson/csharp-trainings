@@ -1,0 +1,13 @@
+C:\Users\jhameson.farias\source\repos\course-csharp\course-csharp\bin\Debug\netcoreapp3.1\course-csharp.exe
+C:\Users\jhameson.farias\source\repos\course-csharp\course-csharp\bin\Debug\netcoreapp3.1\course-csharp.deps.json
+C:\Users\jhameson.farias\source\repos\course-csharp\course-csharp\bin\Debug\netcoreapp3.1\course-csharp.runtimeconfig.json
+C:\Users\jhameson.farias\source\repos\course-csharp\course-csharp\bin\Debug\netcoreapp3.1\course-csharp.runtimeconfig.dev.json
+C:\Users\jhameson.farias\source\repos\course-csharp\course-csharp\bin\Debug\netcoreapp3.1\course-csharp.dll
+C:\Users\jhameson.farias\source\repos\course-csharp\course-csharp\bin\Debug\netcoreapp3.1\course-csharp.pdb
+C:\Users\jhameson.farias\source\repos\course-csharp\course-csharp\obj\Debug\netcoreapp3.1\course-csharp.csprojAssemblyReference.cache
+C:\Users\jhameson.farias\source\repos\course-csharp\course-csharp\obj\Debug\netcoreapp3.1\course-csharp.AssemblyInfoInputs.cache
+C:\Users\jhameson.farias\source\repos\course-csharp\course-csharp\obj\Debug\netcoreapp3.1\course-csharp.AssemblyInfo.cs
+C:\Users\jhameson.farias\source\repos\course-csharp\course-csharp\obj\Debug\netcoreapp3.1\course-csharp.csproj.CoreCompileInputs.cache
+C:\Users\jhameson.farias\source\repos\course-csharp\course-csharp\obj\Debug\netcoreapp3.1\course-csharp.dll
+C:\Users\jhameson.farias\source\repos\course-csharp\course-csharp\obj\Debug\netcoreapp3.1\course-csharp.pdb
+C:\Users\jhameson.farias\source\repos\course-csharp\course-csharp\obj\Debug\netcoreapp3.1\course-csharp.genruntimeconfig.cache
